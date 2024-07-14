@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Gilda+Display&display=swap');
+
+* {
+
+  font-family: "Gilda Display", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+::selection{
+  color:rgb(184, 143, 21);
+}
